@@ -1,7 +1,6 @@
 package br.com.fiap.api_rest.controller;
 
 import br.com.fiap.api_rest.dto.LivroRequest;
-import br.com.fiap.api_rest.dto.LivroResponse;
 import br.com.fiap.api_rest.dto.LivroResponseDTO;
 import br.com.fiap.api_rest.model.Livro;
 import br.com.fiap.api_rest.repository.LivroRepository;
